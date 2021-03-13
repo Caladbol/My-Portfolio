@@ -1,0 +1,31 @@
+/*
+ Theme Name: Please Give Me a Job Theme
+ Description: Portfolio of self made projects as a Front-End Developer 
+ Author: Thaynã Ferreira de Sousa - Caladbol
+ Author URL:  https://github.com/Caladbol/
+ Contact: t.f.sousa0@gmail.com / +55(31) 99130-3878
+ Tags: Personal , Website, Portfolio, Samples
+*/
+
+@import
+    //. Utilities .//
+    'utilities/mixins',
+    'utilities/functions',
+    'utilities/variables',
+
+//     'vendors/',
+    //. Base or Globals .//
+    'base/reset',
+    'base/typography',
+
+    //. Layout .//
+    'layout/footer',
+    'layout/header',
+    'layout/main',
+
+    //. Modules or Components .//
+    'modules/buttons';
+
+//     'pages/',
+
+//     'themes/',
